@@ -73,6 +73,7 @@ const config: webpack.Configuration = {
     publicPath: '/dist/',
   },
   devServer: {
+    open: true,
     historyApiFallback: true, // react router
     port: 3090,
     publicPath: '/dist/',

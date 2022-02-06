@@ -1,0 +1,1 @@
+{"version":3,"file":"474.js","mappings":"+IAEA,MAQA,EARoB,IAGhB","sources":["webpack://alecture/./pages/DirectMessage/index.tsx"],"sourcesContent":["import React from \"react\";\n\nconst DirectMessage=()=>{\n    return (\n    \n    <div>디엠</div> \n    \n    );\n};\n\nexport default DirectMessage;"],"names":[],"sourceRoot":""}
